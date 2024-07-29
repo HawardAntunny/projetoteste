@@ -13,7 +13,7 @@ for(let i=0;i <botoes.length;i++) {
 }
 
 const contadores = document.querySelectorAll(".contador");
-const tempoObjetivo1 = new Date("2024-09-01T00:00:00"); // Colheita do Tomate
+const tempoObjetivo1 = new Date("2024-12-01T00:00:00"); // Colheita do Tomate
 const tempoObjetivo2 = new Date("2024-10-15T00:00:00"); // Colheita da Alface
 const tempoObjetivo3 = new Date("2024-11-20T00:00:00"); // Colheita da Cenoura
 const tempoObjetivo4 = new Date("2024-12-05T00:00:00"); // Colheita do Pepino
